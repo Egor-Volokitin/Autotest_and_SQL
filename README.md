@@ -7,4 +7,4 @@
 - Скриншот с выполненым тестом - Volokitin_Egor_PyTest.jpg
 
 - # SQL запросы
-- Запросы SQL - SQL_zapros.docx
+- Запросы SQL - SQL_zapros.txt
